@@ -22,8 +22,7 @@
   <br>
   ```
 
->[!NOTE]
->Não são todas as *Tags*, é somente as mostradas na aula.
+> Não são todas as *Tags*, é somente as mostradas na aula.
 
 ## Informações
 
