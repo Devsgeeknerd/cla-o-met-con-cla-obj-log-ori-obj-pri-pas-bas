@@ -2,7 +2,28 @@
 
 - A estrutura de uma página é formada por *Tags* para que o navegador possa ler.
 - *Tags* que precisam de uma de abertura e outra de fechamento:
-  - `<html></html>`
+
+  ```html
+  <html></html>
+  <head></head>
+  <title></title>
+  <script></script>
+  <body></body>
+  <div></div>
+  <form></form>
+   ```
+
+- *Tags* que abrir e fecha nela mesma:
+  
+  ```html
+  <meta />
+  <link />
+  <input />
+  <br>
+  ```
+
+>[!NOTE]
+>Não são todas as *Tags*, é somente as mostradas na aula.
 
 ## Informações
 
