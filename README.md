@@ -19,7 +19,7 @@
   <meta />
   <link />
   <input />
-  <br>
+  <br />
   ```
 
 > Não são todas as *Tags*, é somente as mostradas na aula.
