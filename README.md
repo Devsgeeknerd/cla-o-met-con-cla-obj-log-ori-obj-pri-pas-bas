@@ -1,8 +1,8 @@
 <!-- TITLE -->
 # Estrutura de uma Página Web
 
-- A estrutura de uma página é formada por *Tags* para que o navegador possa ler.
-- *Tags* que precisam de uma de abertura e outra de fechamento:
+* A estrutura de uma página é formada por *Tags* para que o navegador possa ler.
+* *Tags* que precisam de uma de abertura e outra de fechamento:
 
   ```html
   <html></html>
@@ -14,7 +14,7 @@
   <form></form>
    ```
 
-- *Tags* que abrir e fecha nela mesma:
+* *Tags* que abrir e fecha nela mesma:
   
   ```html
   <meta />
