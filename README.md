@@ -23,7 +23,7 @@
   <br />
   ```
 
-> Não são todas as *Tags*, é somente as mostradas na aula.
+`NOTA:` Não são todas as *Tags*, é somente as mostradas na aula.
 
 
 <!-- TABLE OF CONTENTS -->
