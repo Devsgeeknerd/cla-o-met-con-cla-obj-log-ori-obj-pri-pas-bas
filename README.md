@@ -2,6 +2,7 @@
 # Estrutura de uma Página Web
 
 * A estrutura de uma página é formada por *Tags* para que o navegador possa ler.
+
 * *Tags* que precisam de uma de abertura e outra de fechamento:
 
   ```html
@@ -25,7 +26,6 @@
 
 `NOTA:` Não são todas as *Tags*, é somente as mostradas na aula.
 
-
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
@@ -39,7 +39,7 @@
 <!--  - [Recusos úteis](#recursos-úteis) -->
 <!-- - [Autor](#autor) -->
 <!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
